@@ -1,2 +1,4 @@
 git status
 ls
+ls -lrt
+ls -l
